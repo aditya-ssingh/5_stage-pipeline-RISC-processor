@@ -1,0 +1,19 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+
+========================================
+  RISC-V PROCESSOR TEST RESULTS
+========================================
+Register x1 = 5
+Register x2 = 10
+Register x3 = 15
+Register x4 = 5
+Register x5 = 15
+Register x6 = 20
+Register x7 = 20
+Register x8 = 7
+Data Memory[0] = 15
+----------------------------------------
+PASS: ALL TESTS PASSED
+========================================
+$finish called at time : 366 ns : File "C:/Users/Hp/Desktop/vlsi code/5_stage_pipeline_risc processor/5_stage_pipeline_risc processor.srcs/sim_1/new/riscv_top_tb.v" Line 224

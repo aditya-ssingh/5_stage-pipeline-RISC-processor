@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Time=0 | Instr=00000000 | RD1E=         0 | RD2E=         0 | ImmExtE=         0 | PCE=00000000 | RegWriteE=0 | ALUSrcE=0
+Time=60000 | Instr=002081b3 | RD1E=         0 | RD2E=         0 | ImmExtE=         0 | PCE=00000000 | RegWriteE=0 | ALUSrcE=0
+Time=65000 | Instr=002081b3 | RD1E=         5 | RD2E=        10 | ImmExtE=         2 | PCE=00000008 | RegWriteE=1 | ALUSrcE=0
+PASS: ADD instruction decoded correctly
+Time=70000 | Instr=00508213 | RD1E=         5 | RD2E=        10 | ImmExtE=         2 | PCE=00000008 | RegWriteE=1 | ALUSrcE=0
+Time=75000 | Instr=00508213 | RD1E=         5 | RD2E=         0 | ImmExtE=         5 | PCE=0000000c | RegWriteE=1 | ALUSrcE=1
+PASS: ADDI instruction decoded correctly
+Time=80000 | Instr=00302023 | RD1E=         5 | RD2E=         0 | ImmExtE=         5 | PCE=0000000c | RegWriteE=1 | ALUSrcE=1
+Time=85000 | Instr=00302023 | RD1E=         0 | RD2E=         0 | ImmExtE=         0 | PCE=00000010 | RegWriteE=0 | ALUSrcE=1
+PASS: STORE instruction decoded correctly
+==============================
+DECODE CYCLE TEST COMPLETED
+==============================
+$finish called at time : 96 ns : File "C:/Users/Hp/Desktop/vlsi code/5_stage_pipeline_risc processor/5_stage_pipeline_risc processor.srcs/sim_1/new/decode_tb.v" Line 202
